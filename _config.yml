@@ -1,0 +1,8 @@
+# basic options, i can say what ever here
+titile : ENSAXP
+author : ENSAXP
+email : ENSAXP@gmail.com
+
+# Build settings
+markdown: kramdown
+theme: minima
